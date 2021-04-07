@@ -1,0 +1,7 @@
+Please install the list of libraries below:
+
+pyaramorph
+treetaggerwrapper
+textblob
+textblob_fr
+difflib
