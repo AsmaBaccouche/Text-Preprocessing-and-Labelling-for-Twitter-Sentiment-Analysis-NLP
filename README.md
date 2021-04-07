@@ -1,5 +1,6 @@
-# Twitter-Text-Processing-NLP
-Helper Scripts for Cleaning, Processing and Labeling of Health-related Tweets in English, French and Arabic 
+# Text-Processing-for-Twitter-Sentiment-Analysis-NLP
+Helper Scripts for Cleaning, Processing and Automatc Labeling of Health-related Tweets in English, French and Arabic
+Sentiment Analysis - Natural Language Processing (NLP)
 
 All methods were described in the paper: Annotation Technique for Health-Related Tweets Sentiment Analysis
 
