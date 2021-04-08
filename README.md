@@ -1,4 +1,4 @@
-# Text-Processing and Labelling for Twitter Sentiment Analysis-NLP
+# Text Processing and Labelling for Twitter Sentiment Analysis-NLP
 Helper Scripts for Cleaning, Processing and Automatc Labeling of Health-related Tweets in English, French and Arabic
 Sentiment Analysis - Natural Language Processing (NLP)
 
